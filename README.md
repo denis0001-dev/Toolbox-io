@@ -1,31 +1,33 @@
-### The ultimate All-in-One Toolbox
-Toolbox.io is an All-in-One Toolbox with many useful features, such as security,  customization and tools.
+### # Toolbox.io: все нужное — в одном приложении
+Toolbox.io — это надежный инструмент, который помогает защитить ваши приложения и данные на Android
+от несанкционированного доступа. Он предлагает множество функций, которые делают вашу жизнь 
+более безопасной и комфортной.
 
-### Try this app
+### Попробуйте это приложение
 > [!NOTE]
-> This app is not guaranteed to work on all devices, so if the app behaves unexpectedly, post an issue to this website.
+> Это приложение может работать не на всех устройствах, поэтому, если оно работает неожиданно, отправьте сообщение на этот сайт.
 
-You can download this app [here](https://github.com/denis0001-dev/Toolbox-io-Website/releases/latest).
-Sadly, the website works badly right now, so to download click the link above.
-### Ultimate Plans
+Вы можете скачать это приложение [здесь](https://github.com/denis0001-dev/Toolbox-io-Website/releases/latest).
+К сожалению, сайт сейчас работает плохо, поэтому для скачивания нажмите на ссылку выше.
+### Планы на будущее
 
-- [X] Expand this app to not only secure your device, but customize it too.
-- [ ] Fix all the bugs
+- [X] Расширить это приложение, чтобы не только защитить ваше устройство, но и настроить его.
+- [ ] Исправить все ошибки
 
-_... and more_
+_... и многое другое_
 
-Every update is published to the website's repo. You can track my progress in this [project](https://github.com/users/denis0001-dev/projects/3) if you're in
-### Compatibility 
-This app is compatible with Android 7 and higher.
+Каждое обновление публикуется в репозитории веб-сайта. Вы можете следить за моим прогрессом в этом [проекте](https://github.com/users/denis0001-dev/projects/3), если вы в
+### Совместимость 
+Это приложение совместимо с Android 7 и более поздними версиями.
 
-The app was tested on the following devices:
-| Android version | Brand     | Model                    | Status          | Related issues |
-|-----------------|-----------|--------------------------|-----------------|----------------|
-| 14              | Samsung   | Galaxy Tab A9+, emulator | ✅️ OK           |                |
-| 11              | Blackview | A95                      | ✅️ OK           |                |
-| 13              | Xiaomi    | Redmi Note 11            | ⚠️ Has problems |                |
+Приложение было протестировано на следующих устройствах:
+| Версия Android  | Бренд     | Модель                   | Статус           | Связанные проблемы |
+|-----------------|-----------|--------------------------|------------------|--------------------|
+| 14              | Samsung   | Galaxy Tab A9+, эмулятор | ✅️ ОК            |                    |
+| 11              | Blackview | A95                      | ✅️ ОК            |                    |
+| 13              | Xiaomi    | Redmi Note 11            | ⚠️ Есть проблемы |                    |
 
-Feel free to open a pull request to add a device here :)
-### Updates
-This app comes with an update checker, so you will never miss an update. You can update right from the app, but also you can download it using the link above.
-The update checker checks for updates every 10 seconds. You will be able to customize this interval soon. If it finds one, you will be notified.
+Не стесняйтесь открывать запрос на добавление устройства здесь :)
+### Обновления
+В этом приложении есть функция проверки обновлений, так что вы никогда не пропустите обновление. Вы можете обновить приложение прямо в нём, а также скачать его по ссылке выше.
+ Функция проверки обновлений проверяет наличие обновлений каждые 10 секунд. Скоро вы сможете настроить этот интервал. Если обновление будет найдено, вы получите уведомление.
